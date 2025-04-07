@@ -1,0 +1,1 @@
+This is a simple AWS CI/CD pipeline using CodePipeline, CodeBuild, and CodeDeploy with a small Fast-API application.
